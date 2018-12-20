@@ -1,3 +1,4 @@
+# changes: mark a new version so that go get works nicely
 # Randstr
 
 Randstr is an Go library for generate secure random strings
